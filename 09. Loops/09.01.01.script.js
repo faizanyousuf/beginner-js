@@ -12,8 +12,13 @@
   // Code to be executed
 } */
 
+
+
+
 for (let i = 1; i <= 5; i++) {
   alert('Hello, The current index/num is: ' + i);
   document.write('<li>Hello, The current index/num is: ' + i + '</li>');
   console.log('Hello, The current index/num is: ' + i);
 }
+
+
