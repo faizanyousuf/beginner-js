@@ -26,6 +26,8 @@ cart.addItem("Bag2",26)
 total_price = cart.total()
 console.log(total_price)
 
+
+
 var sum = [2,3,4].reduce(function(a,b){
   return a+b
 },0);
